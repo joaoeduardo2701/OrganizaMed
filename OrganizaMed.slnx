@@ -8,5 +8,7 @@
   <Folder Name="/3. Infraestrutura/" />
   <Folder Name="/4. Testes/" />
   <Folder Name="/4. Testes/Testes de Integração/" />
-  <Folder Name="/4. Testes/Testes de Unidade/" />
+  <Folder Name="/4. Testes/Testes de Unidade/">
+    <Project Path="OrganizaMed.Testes.Unidade/OrganizaMed.Testes.Unidade.csproj" Id="9002a103-5639-45c3-b5a5-b7aab16abf92" />
+  </Folder>
 </Solution>

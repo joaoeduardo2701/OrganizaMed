@@ -20,4 +20,3 @@ public class ValidadorMedico : AbstractValidator<Medico>
             .Matches(@"^\d{5}-[A-Z]{2}$").WithMessage("O campo {PropertyName} deve seguir o formato 00000-UF");
     }
 }
-        
