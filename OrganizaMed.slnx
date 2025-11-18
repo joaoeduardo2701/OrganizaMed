@@ -1,1 +1,12 @@
-<Solution />
+<Solution>
+  <Folder Name="/1. Distribuição/" />
+  <Folder Name="/2. Núcleo da Aplicação/" />
+  <Folder Name="/2. Núcleo da Aplicação/Camada de Aplicação/" />
+  <Folder Name="/2. Núcleo da Aplicação/Camada de Domínio/">
+    <Project Path="OrganizaMed.Dominio/OrganizaMed.Dominio.csproj" />
+  </Folder>
+  <Folder Name="/3. Infraestrutura/" />
+  <Folder Name="/4. Testes/" />
+  <Folder Name="/4. Testes/Testes de Integração/" />
+  <Folder Name="/4. Testes/Testes de Unidade/" />
+</Solution>
